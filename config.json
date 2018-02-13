@@ -1,0 +1,12 @@
+{
+"bridge": {
+"name": "Homebridge"
+"pin": "987-65-432
+},
+
+"platforms": [{
+"platform": "Nest",
+"username": "thaya@intellisoft.org",
+"password": "Whitev4n"
+}]
+}
